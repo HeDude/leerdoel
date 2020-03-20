@@ -4317,7 +4317,12 @@ h1
 }
 
 .goal_edit
+{
+    text-decoration: none;
+    color: white;
+}
 
+.goal_view
 {
     text-decoration: none;
     color: white;
